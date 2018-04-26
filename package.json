@@ -1,0 +1,25 @@
+{
+  "name": "user-service",
+  "version": "1.0.0",
+  "description": "a service for user to sign up/log in/check and edit message",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.5.0",
+    "vue": "^2.5.16",
+    "vue-server-renderer": "^2.5.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "user",
+    "micro",
+    "service",
+    "register",
+    "login",
+    "member"
+  ],
+  "author": "lw",
+  "license": "ISC"
+}
