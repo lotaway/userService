@@ -4,10 +4,14 @@
   "description": "a service for user to sign up/log in/check and edit message",
   "main": "index.js",
   "dependencies": {
-    "koa": "^2.5.0",
-    "vue": "^2.5.16",
-    "vue-router": "^3.0.1",
-    "vue-server-renderer": "^2.5.16"
+    "koa": "",
+    "vue": "",
+    "vuex": "",
+    "webpack-merge": "",
+    "webpack-node-externals": "",
+    "vue-router": "",
+    "vue-server-renderer": "",
+    "vuex-router-sync": ""
   },
   "devDependencies": {},
   "scripts": {
